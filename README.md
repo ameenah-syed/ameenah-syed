@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ameenah-syed
 - 👀 I’m interested in ... Learning new languages, working on fun projects, meeting new friends!
-- 🌱 I’m currently learning ... Python, Calculus
+- 🌱 I’m currently learning ... API Integration, Full Stack Development
 - 💞️ I’m looking to collaborate on ... Anything! I'm a fast learner...
 - 📫 How to reach me ... email: ameenah.usyed@gmail.com
 - 😄 Pronouns: ... She/Her
